@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiniProjektSQL.Models
+namespace MiniProjektSQL
 {
     public class SQLProjektPerson
     {
