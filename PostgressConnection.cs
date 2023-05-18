@@ -3,7 +3,7 @@ using Npgsql;
 using Dapper;
 using System.Configuration;
 using System.Data;
-using MiniProjektSQL.Models;
+using MiniProjektSQL
 
 namespace MiniProjektSQL
 {
